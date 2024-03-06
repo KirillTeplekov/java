@@ -1,0 +1,4 @@
+public enum LexemType {
+    LEFT_BRACKET, RIGHT_BRACKET, NUMBER,
+    MULTI, DIV, PLUS, MINUS
+}
